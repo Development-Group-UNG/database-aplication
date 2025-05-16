@@ -1,0 +1,4 @@
+fastapi -> cria uma api com documentação
+pydantic -> faz o base model, cria um padrão de envio (json)
+typing -> faz uma tipagem 
+uvicorn -> servidor para testar api
